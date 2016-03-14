@@ -1,0 +1,12 @@
+{
+  "cameras" : [
+      {
+          "name": "camera1",
+          "uuid": "YOUR-UUID-HERE"
+      },
+      {
+          "name": "camera2",
+          "uuid": "YOUR-UUID-HERE"
+      }
+  ]
+}
